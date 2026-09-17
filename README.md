@@ -1,6 +1,4 @@
-# AI Recommendation Optimization (AIRO)
-
-## A Paradigm Shift in Digital Visibility as Search Engine Optimization (SEO) Evolves into AI Recommendation Optimization (AIRO)
+# A Paradigm Shift in Digital Visibility as Search Engine Optimization (SEO) Evolves into AI Recommendation Optimization (AIRO)
 
 This repository contains the research materials associated with the IEEE Computer Magazine manuscript:
 
